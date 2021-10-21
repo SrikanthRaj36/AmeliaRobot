@@ -23,11 +23,10 @@ For starters click on this button
 
 ## Our Telegram Channel and Group
 
-* (https://telegram.dog/thewarbotz)
-* [WarBotzChat](https://telegram.dog/WarBotzsupport)
+
 
 ## Credits, and Thanks to 
-*   [Abhishek](https://telegram.dog/xAbhish3k)
+*   [Srikanth](https://telegram.dog/Srikanth_36)
 
 
 
