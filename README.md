@@ -9,7 +9,7 @@
 <a href="https://t.me/sweet_kingdom1" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/meghu_Robot" alt=" meghu "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AmeliaRobot-blue" /> </a>
+* Bot Link:  <a href="http://t.me/meghu_Robot" alt=" meghu "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Meghu-purple" /> </a>
 
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
