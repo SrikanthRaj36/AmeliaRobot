@@ -23,7 +23,7 @@ For starters click on this button
 
 ## Our Telegram Channel and Group
 
-* [Warbotz](https://telegram.dog/thewarbotz)
+* (https://telegram.dog/thewarbotz)
 * [WarBotzChat](https://telegram.dog/WarBotzsupport)
 
 ## Credits, and Thanks to 
